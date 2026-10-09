@@ -14,9 +14,9 @@ My main focus is Microsoft Azure, Windows Server, and cloud security.
 
 | Area | Technologies |
 |---|---|
-| Cloud | Microsoft Azure, Virtual Machines, Azure Monitor |
+| Cloud | Azure, Virtual Machines, Azure Monitor |
 | Systems Administration | Windows Server, Active Directory |
-| Identity & Access Management | Microsoft Entra ID, User and Group Administration, RBAC |
+| Identity & Access Management | Entra ID, User and Group Administration, RBAC |
 | Security Monitoring | Sentinel, Log Analytics, KQL, Defender |
 | Backup & Recovery | Azure Site Recovery |
 | Automation | PowerShell (Basic Administration and Scripting) |
