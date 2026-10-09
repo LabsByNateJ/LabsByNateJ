@@ -4,11 +4,11 @@
 
 Welcome to my GitHub profile!
 
-I have over six years of experience in IT, with a background in cloud infrastructure, systems administration, and cybersecurity.
+I have over six years of experience in IT, with a background in cloud infrastructure, systems administration, and security.
 
 I created **LabsByNateJ** to document my hands-on projects, share what I'm learning, and continue building my technical skills.
 
-My main focus is Microsoft Azure, Windows Server, and cloud security.
+My main focus is cloud and security in Azure.
 
 ### Technical Background
 
