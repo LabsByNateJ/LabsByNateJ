@@ -1,6 +1,6 @@
 # Hi, I'm Nafee "Nate" J.
 
-**Cloud Engineer | Azure Infrastructure | Windows Server | Cloud Security**
+**Cloud Engineer & Security**
 
 Welcome to my GitHub profile!
 
@@ -14,10 +14,10 @@ My main focus is Microsoft Azure, Windows Server, and cloud security.
 
 | Area | Technologies |
 |---|---|
-| Cloud | Microsoft Azure, Azure Virtual Machines, Azure Monitor |
-| Systems Administration | Windows Server, Active Directory, Group Policy |
+| Cloud | Microsoft Azure, Virtual Machines, Azure Monitor |
+| Systems Administration | Windows Server, Active Directory |
 | Identity & Access Management | Microsoft Entra ID, User and Group Administration, RBAC |
-| Security Monitoring | Microsoft Sentinel, Log Analytics, KQL, Microsoft Defender |
+| Security Monitoring | Sentinel, Log Analytics, KQL, Defender |
 | Backup & Recovery | Azure Site Recovery |
 | Automation | PowerShell (Basic Administration and Scripting) |
 
